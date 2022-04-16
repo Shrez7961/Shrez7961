@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrez7961
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Exploratory Data Analysis
+- 🌱 I’m currently learning Machine Learning along with Statistics.
 - 💞️ I’m looking to collaborate on python programming project.
 - 📫 How to reach me www.linkedin.com/in/shreyash-movale-b614b6155
 
